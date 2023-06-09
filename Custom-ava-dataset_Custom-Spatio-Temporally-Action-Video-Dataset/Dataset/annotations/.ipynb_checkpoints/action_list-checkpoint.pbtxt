@@ -1,0 +1,26 @@
+item {
+  name: "stand"
+  id: 1
+}
+item {
+  name: "tilt"
+  id: 2
+}
+item {
+  name: "fall"
+  id: 3
+}
+item {
+  name: "run"
+  id: 4
+}
+item {
+  name: "stop"
+  id: 5
+}
+item {
+  name: "knock"
+  id: 6
+}
+
+

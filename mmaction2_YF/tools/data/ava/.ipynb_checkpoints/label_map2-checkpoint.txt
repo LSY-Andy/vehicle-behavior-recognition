@@ -1,0 +1,6 @@
+1: stand
+2: tilt
+3: fall
+4: run
+5: stop
+6: knock
